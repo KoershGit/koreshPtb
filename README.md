@@ -10,4 +10,4 @@ After that add the folder ptbTestProject to your vitual environment directory\ag
 ...
 ```
 
-Now you can visit `http://127.0.0.1:8050/` with any Browser and watch the a noisy SineGenerator agent together with its filtered signal, a pulseGenerator and a schockGaussianGenerator you just spawned. Also, you can find figures of the result in Fig_Results.
+Now you can visit `http://127.0.0.1:8050/` with any Browser and watch the noisy SineGenerator agent together with its filtered signal, a pulseGenerator and a schockGaussianGenerator you just spawned. Also, you can find figures of the result in Fig_Results.
